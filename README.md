@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=jiyoondev&show_icons=true&hide_border=true)](https://github.com/jiyoondev)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoondev&layout=compact)](https://github.com/jiyoondev)

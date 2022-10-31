@@ -2,8 +2,12 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jiyoon's&nbsp;Dev&nbsp;Journal&fontSize=60&section=header)
 
+<div align=center><h1>📜 CERTIFICATE</h1></div>
+  
 <div align=center><img src="https://user-images.githubusercontent.com/80487426/198986452-e0bafbcd-6c76-4aa7-a5f8-2748467f3935.png" width="150"></div>
-
+  
+<br>
+  
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 

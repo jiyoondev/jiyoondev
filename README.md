@@ -1,15 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=World's&nbsp;Greatest&nbsp;Developer&fontSize=60)
-### 안녕하세요 성장하는 개발자 장지윤입니다!😄
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyoondev)](https://hits.seeyoufarm.com)
+<div align='center'>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jiyoon's&nbsp;Dev&nbsp;Journal&fontSize=60&section=header)
 
-![Jiyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoondev&theme=github_dark&show_icons=true)
-
-<img src="https://user-images.githubusercontent.com/80487426/198986452-e0bafbcd-6c76-4aa7-a5f8-2748467f3935.png" width="150">
+<div align=center><img src="https://user-images.githubusercontent.com/80487426/198986452-e0bafbcd-6c76-4aa7-a5f8-2748467f3935.png" width="150"></div>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=">
+  
+  
   <br>
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -18,11 +20,14 @@
   <br>
   
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label="> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=">
   <br>
   
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+   
   
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design&color=757575&logo=Material+Design&logoColor=FFFFFF&label=">
   <br>
 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
@@ -32,5 +37,15 @@
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=172B4D&logo=Confluence&logoColor=FFFFFF&label=">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=">
+  
   <br>
+  
+  
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Teams&color=6264A7&logo=Microsoft+Teams&logoColor=FFFFFF&label=">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=">
+
 </div>
+  </div>

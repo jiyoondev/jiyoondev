@@ -1,6 +1,6 @@
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jiyoon's&nbsp;Dev&nbsp;Journal&fontSize=60&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jiyoon's&nbsp;Dev&nbsp;Journal&fontSize=60&section=header)
 
 <div align=center><h1>📜 CERTIFICATE</h1></div>
   
@@ -55,6 +55,6 @@
   
   <br>
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
   
   </div>

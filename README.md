@@ -1,6 +1,6 @@
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jiyoon's&nbsp;Dev&nbsp;Journal&fontSize=60&section=header&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jiyoon's&nbsp;Dev&nbsp;Journal&fontSize=60&section=header&fontAlignY=40&fontColor=d6ace6)
 
 <div align=center><h1>📜 CERTIFICATE</h1></div>
   
